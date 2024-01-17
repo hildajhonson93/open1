@@ -7,4 +7,4 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://boosterjp.wordaligned.org/sitemap.xml
+Sitemap: http://openxcplatform.com/sitemap.xml
